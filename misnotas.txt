@@ -1,3 +1,4 @@
-juan - 2
+juan - 8
 pepe - 7
 marcos - 10
+violeta - 7
